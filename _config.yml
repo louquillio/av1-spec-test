@@ -38,3 +38,6 @@ exclude:
   - node_modules
 sass:
     style: compressed
+
+# GitHub metadata
+repository: <louquillio>/<av1-spec-test>
